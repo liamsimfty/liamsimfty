@@ -9,8 +9,8 @@
 I'm a passionate developer who loves exploring new technologies and building innovative solutions. Currently diving deep into cybersecurity while working on exciting projects like **E Masjid**.
 
 - 🔭 **Currently working on:** E Masjid - Making mosque management digital
-- 🌱 **Currently learning:** CyberSecurity 
-- 💡 **Always eager to:** Learn adn *TRY* new technologies and collaborate on open-source projects
+- 🌱 **Currently learning:** Cyber Security
+- 💡 **Always eager to:** Learn and *TRY* new technologies and collaborate on open-source projects
 
 ## 🛠️ Tech Stack
 
@@ -46,40 +46,8 @@ I'm a passionate developer who loves exploring new technologies and building inn
 
 ### Cybersecurity
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
 </div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liamsimfty&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liamsimfty&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liamsimfty&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=liamsimfty&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-## 🌟 Featured Projects
-
-### 🕌 E Masjid
-> Digital mosque management system to streamline mosque operations and enhance community engagement.
-
-**Tech Stack:** React, Node.js, MongoDB, Express.js  
-**Status:** 🚧 In Development
-
-*More amazing projects coming soon...*
 
 ## 📈 Activity Graph
 
@@ -89,10 +57,8 @@ I'm a passionate developer who loves exploring new technologies and building inn
 
 ## 🎯 Goals for 2025
 
-- 🛡️ Master cybersecurity fundamentals
-- 🚀 Launch E Masjid project
+- 🛡️ Get my First Bug Bounty
 - 📚 Contribute to more open-source projects
-- 🌐 Learn cloud technologies (AWS/Azure)
 - 🤝 Collaborate with international developers
 
 ---
